@@ -1,2 +1,1 @@
-#rule the world
 exeta
